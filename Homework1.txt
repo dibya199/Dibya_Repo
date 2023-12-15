@@ -5,24 +5,26 @@ a) Cloud Desktop b) Cloud Service c) On-Premise desktop d) On-Premise Server e) 
 g) Power BI Embedding h) Gateway
 
 What is pagination?
-Dividing records into multiple pages and each page is printable
+Dividing records into multiple pages and each page is printable.
 
 What exactly Gateway does?
 Gateway is the intermediatory betwen On-premise sources to cloud.
 
 Power BI Desktop components?
-a) Power Query b) Power Pivot c)Power View d) Power Map
+a) Power Query b) Power Pivot c)Power View d) Power Map.
 
 
 Accounts:
 Account is authorization between user and service / server. Very popular with Web and Cloud services.
 Clouds:
 	a) Data Storage: Google Drive, OneDrive etc.
-			Google Drive [till 15 GB free, Rs. 131+ for 100 GB, 2 TB for 650+ taxes /month]
+			Google Drive [till 15 GB free, Rs. 131+ for 100 GB, 2 TB for 650+ taxes /month].
+
 
 	b) Cloud Data Streaming: Primevideo.com, Netflix etc.
 
 			TV account, Mobile, Single user, Multiple user
+
 
 	b) Data Storage and Processing: Azure, Amazon, Workday, Salesforce etc.
 
